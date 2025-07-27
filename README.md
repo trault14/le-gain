@@ -1,5 +1,5 @@
 # le-gain
-Le Gain is an amazing volume and polarity plugin
+Le Gain is a nice little volume and polarity plugin
 
 <img width="250" height="573" alt="Screenshot 2025-07-26 at 23 11 35" src="https://github.com/user-attachments/assets/13aa051a-358c-4ed0-8ccf-cde67e868d1b" />
 
